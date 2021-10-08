@@ -1,0 +1,22 @@
+body{
+  background-color:lightblue;
+  text-align:center;
+}
+h1{
+  text-align:center; 
+}
+img{
+  border-radius:50%;
+}
+p{
+  font-size:35px; 
+}
+menu.{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
